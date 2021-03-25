@@ -1,0 +1,24 @@
+/************** STYLES ********************/
+.s_dkmain-tabs-t {
+    font-weight: bold;
+    color: #fff;
+    background: #1D76B2;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+}
+
+s_dkmain-tabs-t strong {
+    display: inline-block;
+    width: 28px;
+    background: #f66;
+    height: 30px;
+    text-align: right;
+    font-size: 13px;
+    float: left;
+    position: relative;
+}
+.s_dkmain-tabs-t span {
+    margin-left: 25px;
+    float: left;
+}
